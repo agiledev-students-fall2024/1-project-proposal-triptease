@@ -37,4 +37,4 @@ After the trip, activites actually done can be marked as done, and the app can g
 
 ### **Scope**
 
-* **TripTease** is appropriately scoped for a team of 3-4 programmers to complete within a semester. The project will focus on key features such as group creation, suggestion submission, upvoting/downvoting, and itinerary generation. These features balance frontend and backend tasks and provide enough complexity to engage the team without overwhelming them. The real-time voting mechanism and group management functionalities offer a technical challenge, but the scope remains manageable for the group size and timeframe.
+* **TripTease** is reasonably scoped for a team of 3-4 programmers to complete within a semester. The project will focus on key features such as group creation, suggestion submission, and the upvoting/downvoting system. These features balance frontend and backend tasks and provide enough complexity to engage the team without overwhelming them. The real-time voting mechanism and user/group management functionalities offer a technical challenge, but is manageable for the group size and timeframe.
