@@ -24,13 +24,12 @@
   
   * **Add Recommendations**: Group members can submit suggestions for restaurants, activities, and destinations, which will be categorized for easy browsing (e.g., Food, Activities, Destinations).
   
-  * **Upvote/Downvote System**: Users can vote on suggestions, with the most upvoted options rising to the top. This voting system allows the group to easily see and prioritize the most popular ideas.
+  * **Upvote/Downvote Dynamic Voting System**: Users can continuously upvote activity suggestions, with the most upvoted options rising to the top. This voting system allows the group to easily see and prioritize the most popular ideas, and allows users to change their mind as new activities are suggested/added.
   
   * **Add Details**: Users can attach notes, links, or dates to each suggestion, providing additional context for the group.
-  
-  * **Dynamic Voting**: Voting can be updated at any time, allowing for flexibility as new suggestions are added.
-  
-  * **Group Itinerary**: Once the voting process concludes, the app generates a shared itinerary based on the top-voted items. This itinerary can be exported or shared with all group members.
+  * **Post-Trip Summary (Stretch Goal)**:
+After the trip, activites actually done can be marked as done, and the app can generate a fun summary of the activities that the group went on, similar to a Spotify Wrapped. Users can rate the activities after they are marked as done, and then those rating can be shown as well as part of the summary.
+
 
 ### **Scope**
 
