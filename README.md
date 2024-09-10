@@ -1,8 +1,12 @@
 # Project Proposal
 
-### **Project Title**
+## Project title
+TripTease
 
-* **TripTease**
+## Team Members
+* Aditi Kanaujia (ak9138)
+* Anthony Uriarte (aju2005)
+* Frederick Rohn(fnr2009)
 
 ### **What and Why?**
 
