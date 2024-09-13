@@ -7,7 +7,6 @@ TripTease
 * Aditi Kanaujia (ak9138)
 * Anthony Uriarte (aju2005)
 * Frederick Rohn(fnr2009)
-* Vishnu Kommuri(vk2244)
 
 ### **What and Why?**
 
