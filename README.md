@@ -1,6 +1,6 @@
 # Project Proposal - TripTease
 
-## Team Members
+### **Team Members**
 - Aditi Kanaujia (ak9138)
 - Anthony Uriarte (aju2005)
 - Frederick Rohn (fnr2009)
